@@ -15,6 +15,12 @@
         android:theme="@style/Theme.AndroidAppJee59"
         tools:targetApi="31">
         <activity
+            android:name=".PurbachalClubDetails"
+            android:exported="false" />
+        <activity
+            android:name=".LionsClubsDashboard"
+            android:exported="false" />
+        <activity
             android:name=".Notification"
             android:exported="false" />
         <activity
